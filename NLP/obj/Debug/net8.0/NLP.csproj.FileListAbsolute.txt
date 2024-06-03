@@ -1,0 +1,15 @@
+C:\Users\jglov\RiderProjects\NLP\NLP\bin\Debug\net8.0\NLP.exe
+C:\Users\jglov\RiderProjects\NLP\NLP\bin\Debug\net8.0\NLP.deps.json
+C:\Users\jglov\RiderProjects\NLP\NLP\bin\Debug\net8.0\NLP.runtimeconfig.json
+C:\Users\jglov\RiderProjects\NLP\NLP\bin\Debug\net8.0\NLP.dll
+C:\Users\jglov\RiderProjects\NLP\NLP\bin\Debug\net8.0\NLP.pdb
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.dll
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\refint\NLP.dll
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.pdb
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\NLP.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\NLP\NLP\obj\Debug\net8.0\ref\NLP.dll
+C:\Users\jglov\RiderProjects\NLP\NLP\bin\Debug\net8.0\training_data.txt
